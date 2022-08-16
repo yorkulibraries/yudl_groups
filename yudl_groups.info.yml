@@ -3,5 +3,6 @@ type: module
 hidden: TRUE
 description: 'Provides initial YUDL Groups'
 package: YUDL
+core_version_requirement: ^9
 dependencies:
   - default_content:default_content
