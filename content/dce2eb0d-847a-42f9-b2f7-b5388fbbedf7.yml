@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: group
+  uuid: dce2eb0d-847a-42f9-b2f7-b5388fbbedf7
+  bundle: york_university
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  label:
+    -
+      value: 'York University'
+  created:
+    -
+      value: 1660657021
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  revision_translation_affected:
+    -
+      value: true

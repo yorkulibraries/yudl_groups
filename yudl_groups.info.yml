@@ -1,0 +1,7 @@
+name: 'YUDL Groups'
+type: module
+hidden: TRUE
+description: 'Provides initial YUDL Groups'
+package: YUDL
+dependencies:
+  - default_content:default_content
