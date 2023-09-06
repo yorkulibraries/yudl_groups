@@ -1,0 +1,78 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0f255f75-0ad4-4d8e-a4c3-64c1de0a2697
+  bundle: page
+  default_langcode: en
+  depends:
+    de759c3b-718f-41d0-aacd-b1ad448d0702: user
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      entity: de759c3b-718f-41d0-aacd-b1ad448d0702
+  title:
+    -
+      value: 'Terms of Use'
+  created:
+    -
+      value: 1692971097
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /terms-of-use
+      langcode: en
+      pathauto: 0
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  body:
+    -
+      value: '<h2>Copyright Statement</h2><p>The contents of the York University Digital Library are made available by York University Libraries and contributing partners for use in research, teaching, personal 
+use, and private study. Some materials in York University Digital Library are protected by The Copyright Act of Canada, with all rights reserved, unless otherwise indicated.</p><p>Although the nature of archival
+ and manuscript collections sometimes makes it difficult to determine the copyright status of a digital object, it is the end user’s responsibility to use it according to all applicable terms. Please <a href="/c
+ontact">contact us</a> for additional information regarding copyright status of a particular digital object.</p><h2>Conditions of Use</h2><p>By accessing the materials in York University Digital Library, you agr
+ee to follow these conditions of use:&nbsp;</p><ul><li>You are solely responsible for your use of the materials.&nbsp;</li><li>Some materials in these collections are protected by The Copyright Act of Canada. In
+ addition, the reproduction of some materials may be restricted by terms of gift or purchase agreements, publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyrig
+ht beyond that allowed by copyright law requires the written permission of the copyright owners. You agree to inform yourself of and follow these laws and rules.&nbsp;</li><li>When using materials from the York 
+University Digital Library, you agree to give proper attribution to York University Libraries by citing the item’s URL, and the original source(s) of the digital object(s). &nbsp;</li></ul><h3>Requests for Permi
+ssion</h3><p>All requests for permission to use materials from the York University Digital Library to acquire high-resolution copies of image files must be directed to the rights holder. Please <a href="/contact
+">contact us</a> for further information about rights for any given digital object in York University Digital Library.</p><h2>Access</h2><p>Due to licensing agreements and/or University policies, some materials 
+in the York University Digital Library are available only to members of the York University community. Depending upon the degree of restriction, you may need to log in with your Passport York account to access t
+he restricted digital object(s).</p><h3>Categories of Access</h3><p>The three categories of access currently utilized by the York University Digital Library are:</p><h4>Public Access</h4><p>A digital object is a
+vailable via the Web to the public around the world with no limitations on who can access the resource.</p><h4>York University Community</h4><p>A digital object is available to individuals with a valid Passport 
+York account.</p><h4>Restricted</h4><p>A digital object requires a signed agreement prior to access.</p><h2>User Privacy</h2><p>York University Digital Library and your use of York University Digital Library is 
+<a href="https://www.yorku.ca/about/privacy-legal/">governed by the terms and conditions of York University</a>, which may be updated from time to time.</p><h3>Surveys and Assessments</h3><p>Information and data
+ obtained by the York University Libraries in support of assessment of services, collections, resources, etc., or in support of research related to depository services, are considered sensitive and confidential 
+and will not be shared except in an aggregated form, or otherwise only with the express prior written permission of participants.</p><h3>Logging</h3><p>York University Digital Library systems may record details 
+of transactions of users and digital objects. All such records will be treated as strictly confidential.</p><h3>Authentication</h3><p>York University Digital Library makes use of Passport York as a mechanism to 
+allow individuals who are affiliated with York University to authenticate to York University Digital Library.</p><h3>Analytics</h3><p>York University Digital Library uses Google Analytics and Matomo. Web analyti
+cs services provided by Google, Inc. ("Google") and Matomo to help understand how the site is being used and to improve our interface and services. Google Analytics and Matomo operate through the use of a "cooki
+e," which is a text file placed on a user’s computer that contains information about their use of York University Digital Library. The information stored in the cookie (including IP addresses) will be transmitte
+d to and stored by Google, and York University Libraries. York University Library uses this information for analytical and feature-improvement-related purposes only. We do not transmit any information to other t
+hird parties. For more information on Google Analytics and Google’s privacy policy, please see their <a href="https://policies.google.com/privacy?hl=en">Privacy &amp; Terms</a>.&nbsp;<br><br>A user can choose to
+ opt out of this tracing by using one of the following methods:</p><ul><li>Turn off cookies in the browser preferences setting</li><li>Universal web tracking opt-out</li></ul><h2>Withdrawal of Public Access</h2>
+<p>In some cases, such as Copyright or Intellectual Property challenges, or updated donor agreements, content in York University Digital Library may have Public Access to it withdrawn without notice.</p><h2>Resp
+onses</h2><p>York University Libraries answer feedback questions as received, within a reasonable amount of time. In some cases, York University Libraries may forward queries or comments to more appropriate subj
+ect experts instead.</p><p>York University Libraries will not answer questions that appear to be automated spam, questions that do not include an e-mail address for reply, or questions that contain inciting comm
+ents rather than relevant questions.</p><h2>Scope limitations for the York University Digital Library</h2><p>York University Libraries is unable to:</p><ul><li>Provide access to embargoed or restricted materials
+ to persons outside the Designated Community;</li><li>Provide appraisals for materials;</li><li>Provide research assistance including genealogy research, or other services that do not directly pertain to the mai
+ntenance or usage of the York University Digital Library;</li><li>Provide technical support;</li><li>Provide legal advice.</li></ul>'
+      format: full_html
+      summary: ''
