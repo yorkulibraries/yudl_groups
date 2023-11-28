@@ -1,8 +1,8 @@
 _meta:
   version: '1.0'
   entity_type: group
-  uuid: 125aa6b6-8b77-4592-a8c6-caa4ed56bafb
-  bundle: restricted
+  uuid: e27dd5c3-a6d0-4a1d-994f-8d0009a77525
+  bundle: access_control
   default_langcode: en
 default:
   revision_user:
@@ -16,10 +16,10 @@ default:
       target_id: 1
   label:
     -
-      value: Restricted
+      value: RESTRICTED
   created:
     -
-      value: 1660657008
+      value: 1701140555
   path:
     -
       alias: ''
@@ -28,3 +28,14 @@ default:
   revision_translation_affected:
     -
       value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| YUDL DEV'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'http://default/node/1'

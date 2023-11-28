@@ -1,8 +1,8 @@
 _meta:
   version: '1.0'
   entity_type: group
-  uuid: dce2eb0d-847a-42f9-b2f7-b5388fbbedf7
-  bundle: york_university
+  uuid: ce9c1130-157c-460e-ae7f-31bd875b0fd7
+  bundle: access_control
   default_langcode: en
 default:
   revision_user:
@@ -19,7 +19,7 @@ default:
       value: 'York University'
   created:
     -
-      value: 1660657021
+      value: 1701140568
   path:
     -
       alias: ''
@@ -28,3 +28,14 @@ default:
   revision_translation_affected:
     -
       value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| YUDL DEV'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'http://default/node/1'
