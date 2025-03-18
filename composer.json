@@ -1,0 +1,10 @@
+{
+    "name": "yorkulibraries/yudl_groups",
+    "description": "Provides initial YUDL Groups",
+    "type": "drupal-theme",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://github.com/yorkulibraries/yudl_groups",
+    "require": {
+      "drupal/default_content": "^2.0@alpha"
+    }
+}
